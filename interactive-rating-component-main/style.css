@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.view-field {
+  width: 100vw;
+  height: 100vh;
+  background-color: hsl(218, 4%, 42%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-field {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(49, 49, 73);
+  border-radius: 15px;
+}
+/* font-family: 'Overpass', sans-serif; */
+.star-container {
+  width: 40px;
+  height: 40px;
+  margin-left: 35px;
+  margin-top: 35px;
+  background-color: hsl(213, 8%, 42%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.header {
+  color: white;
+  font-family: "Overpass", sans-serif;
+  margin-top: 35px;
+  padding-left: 35px;
+  font-size: 30px;
+}
+.text {
+  color: white;
+  font-family: "Overpass", sans-serif;
+  margin-top: 10px;
+  padding-left: 35px;
+  font-size: 15px;
+}
+.numbers {
+  color: white;
+  font-family: "Overpass", sans-serif;
+  font-weight: bold;
+  margin-top: 30px;
+  padding-left: 35px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+}
+.numbers button {
+  font-family: "Overpass", sans-serif;
+  font-weight: bold;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  padding-top: 5px;
+  border-radius: 50%;
+  /* background-color: hsl(213, 8%, 42%);  */
+}
+
+.notClicked {
+  background-color: hsl(213, 8%, 42%);
+}
+
+.numbers .notClicked:hover {
+  background-color: hsl(217, 12%, 63%);
+}
+.btn-2 {
+  margin-left: 20px;
+}
+.btn-3 {
+  margin-left: 20px;
+}
+
+.btn-4 {
+  margin-left: 20px;
+}
+.btn-5 {
+  margin-left: 20px;
+}
+
+.btn-container {
+  margin-top: 25px;
+  padding-left: 35px;
+}
+.btn-submit {
+  font-family: "Overpass", sans-serif;
+  width: 330px;
+  height: 45px;
+  border-radius: 25px;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  background-color: #fc7614;
+}
+
+.btn-submit:hover {
+  color: #fc7614;
+  background-color: white;
+}
+
+.clicked {
+  background-color: #fc7614;
+}
+
+.after {
+  display: none;
+}
+.svg {
+  margin-top: 40px;
+  margin-left: 119px;
+}
+
+.score {
+  width: 400px;
+  height: 50px;
+  text-align: center;
+  margin-top: 30px;
+}
+.current-score-container {
+  width: 190px;
+  height: 25px;
+  background-color: hsl(213, 8%, 42%);
+  border-radius: 15px;
+  margin-left: 110px;
+  padding-top: 6px;
+}
+.current-score {
+  font-size: 16px;
+  font-family: "Overpass", sans-serif;
+  color: #fc7614;
+  font-weight: 300;
+}
+
+.thanks {
+  width: 250px;
+  height: 150px;
+  font-family: "Overpass", sans-serif;
+}
+
+.first-p-container {
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  margin-left: 132px;
+  font-weight: bold;
+  font-size: 26px;
+  color: white;
+  margin-top: 15px;
+}
+.second-p-container {
+  width: 400px;
+  font-size: 15px;
+  color: hsl(217, 12%, 63%);
+  text-align: center;
+  margin-top: 10px;
+}
