@@ -7,7 +7,7 @@
  
  The links below are for every completed project (in order: oldest to newest)
  
- https://vocal-yeot-57599a.netlify.app/  --- ProductPreviewCardComponent project
+ https://chipper-druid-0f31fa.netlify.app  --- ProductPreviewCardComponent project
  
  https://dainty-dusk-a7ed8b.netlify.app  --- interactive-rating-component project
  
