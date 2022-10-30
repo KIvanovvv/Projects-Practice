@@ -11,6 +11,8 @@
  
  https://dainty-dusk-a7ed8b.netlify.app  --- interactive-rating-component project
  
+ https://remarkable-lokum-248168.netlify.app --- QrCodeComponent project
+ 
  
  
  
