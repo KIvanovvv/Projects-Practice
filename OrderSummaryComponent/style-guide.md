@@ -12,13 +12,13 @@ The designs were created to the following widths:
 ### Primary
 
 - Pale blue: hsl(225, 100%, 94%)
-- Bright blue: hsl(245, 75%, 52%)
+- Bright blue: hsl(245, 75%, 52%) btn normal
 
 ### Neutral
 
 - Very pale blue: hsl(225, 100%, 98%)
-- Desaturated blue: hsl(224, 23%, 55%)
-- Dark blue: hsl(223, 47%, 23%)
+- Desaturated blue: hsl(224, 23%, 55%) after btn hoover
+- Dark blue: hsl(223, 47%, 23%) Order summary
 
 ## Typography
 
