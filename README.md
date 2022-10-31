@@ -13,6 +13,8 @@
  
  https://remarkable-lokum-248168.netlify.app --- QrCodeComponent project
  
+ https://fanciful-pithivier-bd9031.netlify.app --- OrderSummaryComponent project
+ 
  
  
  
